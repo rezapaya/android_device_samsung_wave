@@ -16,7 +16,7 @@
 #
 # Product-specific compile-time definitions.
 #
-
+TARGET_ARCH = arm
 #Video Devices
 BOARD_SECOND_CAMERA_DEVICE := /dev/video2
 
